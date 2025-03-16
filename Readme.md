@@ -35,7 +35,7 @@
 
 2. **Clone the Project**:
    ```bash
-   git clone https://github.com/AyeshaNasirWebDeveloper/Data-Sweeper.git
+   git clone (https://github.com/AyeshaNasirWebDeveloper/Growth-Mindset-Challenge)
 
 3. **Run the App**:
     streamlit run app.py
